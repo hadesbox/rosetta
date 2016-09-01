@@ -4,15 +4,15 @@ This is a Firefox plugin that translates ugly addresses like http://ip-X-Y-Z-W.e
 
 To download the latest release go into the __release__ folder.
 
-Why?
+#Why?
 
 Its anoying when you have to surf you EMRs clusters that the you get private dns directly from the AWS EMR console, but not the private (or public) IP, so this eases you the manual edition if you dns don't resolve this IPs.
 
-How it works?
+#How it works?
 
 Well this plugin will simply try to parse *.compute.internal IP addresess and form the corresponding IP with the full path, port and protocol.
 
-Development
+#Development
 
 The thruth is that this was an experiment to both learn to make a simple Firefox plugin and a tool its actually handy for my self (and hopefully others).
 
