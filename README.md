@@ -2,6 +2,8 @@
 
 This is a Firefox plugin that translates ugly addresses like http://ip-X-Y-Z-W.eu-west-1.compute.internal:20888/proxy/application_1472736105611_0004/ to http://X.Y.Z.W:20888/proxy/application_1472736105611_0004/.
 
+To download the latest release go into the __release__ folder.
+
 Why?
 
 Its anoying when you have to surf you EMRs clusters that the you get private dns directly from the AWS EMR console, but not the private (or public) IP, so this eases you the manual edition if you dns don't resolve this IPs.
