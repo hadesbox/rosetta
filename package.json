@@ -1,0 +1,16 @@
+{
+  "title": "AWS DNS translate",
+  "name": "rosetta",
+  "version": "1.0.1",
+  "description": "An add-on for Firefox to parse DNS addresses to IPS when your dns won't resolve",
+  "main": "index.js",
+  "author": "Luis Gonzalez",
+  "engines": {
+    "firefox": ">=38.0a1",
+    "fennec": ">=38.0a1"
+  },
+  "license": "MIT",
+  "keywords": [
+    "jetpack"
+  ]
+}
